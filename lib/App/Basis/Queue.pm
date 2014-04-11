@@ -1,3 +1,6 @@
+# ABSTRACT: Simple database backed FIFO queues
+
+
 =head1 NAME
 
 App::Basis::Queue
