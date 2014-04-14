@@ -1,2 +1,4 @@
+v0.3 2014-04-14
+  * fix testing, so it does not attempt SQLite on platforms that do not have it
 v0.2 2014-04-11
 	* first release to CPAN and github
