@@ -1,4 +1,4 @@
-v0.4 2015-12-03
+v 000.400.000 2015-12-03
   * Breaking changes - probably not an issue as no one uses this module :)
       * most methods now require arguments to be passed in a hashref
   * queue wildcards
